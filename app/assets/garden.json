@@ -1,0 +1,26 @@
+[
+  {
+    "plantId": "coriandrum-sativum",
+    "name": "Cilantro",
+    "description": "Coriander, also known as cilantro or Chinese parsley, is an annual herb in the family Apiaceae. All parts of the plant are edible, but the fresh leaves and the dried seeds are the parts most traditionally used in cooking.<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Coriander\">Wikipedia</a>)",
+    "growZoneNumber": 2,
+    "wateringInterval": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/A_scene_of_Coriander_leaves.JPG"
+  },
+  {
+    "plantId": "persea-americana",
+    "name": "Avocado",
+    "description": "The avocado (Persea americana) is a tree, long thought to have originated in South Central Mexico, classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.<br><br>Avocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world. They have a green-skinned, fleshy body that may be pear-shaped, egg-shaped, or spherical. Commercially, they ripen after harvesting. Avocado trees are partially self-pollinating and are often propagated through grafting to maintain a predictable quality and quantity of the fruit.<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Avocado\">Wikipedia</a>)",
+    "growZoneNumber": 9,
+    "wateringInterval": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Branch_and_fruit_of_the_Maluma_avocado_cultivar.jpg"
+  },
+  {
+    "plantId": "bougainvillea-glabra",
+    "name": "Bougainvillea",
+    "description": "Bougainvillea is a genus of thorny ornamental vines, bushes, or trees. The inflorescence consists of large colourful sepallike bracts which surround three simple waxy flowers. The vine species grow anywhere from 1 to 12 m (3 to 40 ft.) tall, scrambling over other plants with their spiky thorns, which are tipped with a black, waxy substance. They are evergreen where rainfall occurs all year, or deciduous if there is a dry season.<br><br>Bougainvillea glabra (simplified Chinese: 簕杜鹃; traditional Chinese: 簕杜鵑) is the official city flower of Shenzhen and many other cities around the world.<br><br><br>(From <a href=\\\"https://en.wikipedia.org/wiki/Bougainvillea\\\">Wikipedia</a>)",
+    "growZoneNumber": 10,
+    "wateringInterval": 21,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Paperflower_--_Bougainvillea_glabra.jpg"
+  }
+]
